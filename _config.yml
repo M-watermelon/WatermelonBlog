@@ -31,7 +31,7 @@ copyright: Copyright © 1970-2010
 description: >- # this means to ignore newlines until "baseurl:"
   This is my blog site, I will be keeping track of programming projects and my progress in cybersecurity here too.
 
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/WatermelonBlog" # the subpath of your site, e.g. /blog
 url: "https://m-watermelon.github.io/WatermelonBlog/" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "/assets/images/banners/download(1).png" # the favicon for your site
 
