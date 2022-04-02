@@ -12,12 +12,14 @@ Just to start, here's a basic list, organized by topic of cybersecurity stuff I 
 - Web exploitation:
   - SQL injection
   - Man in the middle attack
+
 - Forensics:
   - Steganography -> the method of hiding information inside files (often inside images).
     - Pixel inversion
     - Audio steganography
     - Video steganography
     - Image overlapping
+
   - Binwalk
   - Hexdump
   - Sleuthkit
@@ -32,11 +34,17 @@ Just to start, here's a basic list, organized by topic of cybersecurity stuff I 
 
 - Binary exploitation:
   - Not sure yet
-- General commands:
+
+- General terminal commands:
+  - ls -> lists the files and folders inside a directory
+  - cd -> return to the first directory (root)
+  - cd DIRECTORY -> enter a directory/folder
   - chmod +x filename
   - ./filename
+
 - Reverse engineering:
   - GDB -> GNU Project Debugger
+
 - Cryptography:
   - RSA
   - Diffie-Hellman key exchange
@@ -44,3 +52,6 @@ Just to start, here's a basic list, organized by topic of cybersecurity stuff I 
   - Weak RSA primes, weak N value
   - Salts and Hashes
   - Alice (message sender), Bob (message reciever), and Eve (the eavesdropper)-> common names used when explaining RSA
+  - Symmetric and asymmetric key encryption
+  - Public and private keys
+  - Timing attack
