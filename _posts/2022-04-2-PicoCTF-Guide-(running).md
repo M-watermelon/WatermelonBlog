@@ -31,3 +31,7 @@ Just to start, here's a basic list, organized by topic of cybersecurity stuff I 
   - ./filename
 - Reverse engineering:
 - Cryptography:
+  - RSA
+  - Diffie-Hellman key exchange
+  - Pollard-Rho algorithm
+  - Weak RSA primes, weak N value
