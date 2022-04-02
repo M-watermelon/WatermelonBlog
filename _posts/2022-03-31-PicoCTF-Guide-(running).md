@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Useful things to know for Pico CTF and general cybersecurity
-subtitle: Each post also has a subtitle
+subtitle: A running guide
 categories: Posts
 tags: [Post]
 ---
