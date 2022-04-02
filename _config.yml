@@ -138,7 +138,7 @@ defaults:
   home:
     heading: "Watermelon Blog"
 #     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+    banner: /assets/images/banners/watermelon_4x.png
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
