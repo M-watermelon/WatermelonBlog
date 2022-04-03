@@ -33,7 +33,7 @@ Just to start, here's a basic list, organized by topic of cybersecurity stuff I 
   - 7zip
 
 - Binary exploitation:
-  - Not sure yet
+  - Endian, Big Endian and Little Endian
 
 - General terminal commands:
   - ls -> lists the files and folders inside a directory
@@ -51,7 +51,8 @@ Just to start, here's a basic list, organized by topic of cybersecurity stuff I 
   - Pollard-Rho algorithm
   - Weak RSA primes, weak N value
   - Salts and Hashes
-  - Alice (message sender), Bob (message reciever), and Eve (the eavesdropper)-> common names used when explaining RSA
+  - Alice (message sender), Bob (message reciever), and Eve (the eavesdropper) -> common names used when explaining RSA
   - Symmetric and asymmetric key encryption
   - Public and private keys
   - Timing attack
+  - Frequency attack
