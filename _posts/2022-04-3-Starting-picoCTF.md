@@ -38,7 +38,7 @@ I've gathered a couple of handy resources that I still use today as a reference 
 Here is a list of them:
 - [Pico primer](https://primer.picoctf.com/): This website might have some parts that are a little out of date, but it is a very comprehensive guide for beginner to intermediate levels.
 - [PicoCTF's website](https://picoctf.org/resources): PicoCTF's own website has a wealth of information and links to useful websites, along with pdfs that have basic introductions to the categories of cybersecurity.
-- [Khan academy cybersecurity 101](https://www.khanacademy.org/partner-content/nova/nova-labs-topic/cyber/v/cybersecurity-101) I suggest starting here if you are an absolute beginner.
+- [Khan academy cybersecurity 101](https://www.khanacademy.org/partner-content/nova/nova-labs-topic/cyber/v/cybersecurity-101): I suggest starting here if you are an absolute beginner.
 - [CTF Field guide](https://trailofbits.github.io/ctf/): This is a good reference and intermediate guide to cybersecurity.
 - [Cheatsheet - Steganography 101](https://pequalsnp-team.github.io/cheatsheet/steganography-101): This is one of my favorite cheatsheets for forensics, it focuses on steganography, which is a method of hiding information inside files, visually, or in audio files.
 - [Sleuthkit and autopsy](http://www.sleuthkit.org/): Sleuthkit and autopsy are tools that are very useful for forensics. I highly reccomend checking them out.
