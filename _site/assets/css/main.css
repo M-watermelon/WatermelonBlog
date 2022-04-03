@@ -259,7 +259,7 @@ html[data-scroll-status='down'] .framework .sidebar { top: 20px; }
 .page-archives .post-meta { font-size: 12.25px; color: #828282; }
 
 /** Page banner */
-.page-banner { display: block; position: relative; height: 640px; background-color: #f7c7c7; transition: height 0.2s; }
+.page-banner { display: block; position: relative; height: 640px; background-color: #84719c; transition: height 0.2s; }
 
 .page-banner .page-banner-img { position: absolute; width: 100%; height: 100%; overflow: hidden; }
 
