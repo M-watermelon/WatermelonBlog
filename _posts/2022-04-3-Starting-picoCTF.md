@@ -23,7 +23,7 @@ I reccomend first familiarizing with the different types of categories (think of
   - Given a file or folder, you need to find out what is special about it, find certain peices of information or another file
 - Cryptography -> Involving methods of hiding information
   - Decoding and breaking secret codes, finding out what makes the secret code breakable
-- Reverse engineering
+- Reverse engineering -> Involving the unscrambling of code
   - Given a program, you need to understand its function, what makes it special, and decode it if someone tried to make it unreadable
 
 I simplified these topics a lot, just so that its easier to get a general understanding of them. As you get to learn more about these topics, you will see that there is a lot more to them than these simple definitions.
