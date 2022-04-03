@@ -6,7 +6,7 @@ categories: Posts
 tags: [Post]
 ---
 
-# This guide is going to be a running blog post, meaning I'll constantly be updating this page with new things I learn.
+### This guide is going to be a running blog post, meaning I'll constantly be updating this page with new things I learn.
 
 Just to start, here's a basic list, organized by topic of cybersecurity stuff I know about/have heard of. This list includes tools, concepts, attacks, commands, etc. It's going to get pretty long, so I'll have individual posts that I'll link here about each topic.
 - Web exploitation:
