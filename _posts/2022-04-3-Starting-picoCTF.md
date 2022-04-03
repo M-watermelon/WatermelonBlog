@@ -5,6 +5,7 @@ subtitle: A guide for beginners
 categories: Guides
 tags: [Guides]
 ---
+### Introduction
 [PicoCTF](https://picoctf.org/) is a fun cybersecurity competition for students from middle school to high school. CTF stands for 'Capture The Flag', this is referring to the main objective of PicoCTF. You are given challenges, puzzles related to important cybersecurity topics. Your goal is to find the 'flag' which is a special code (usually in the format of picoCTF{flag}). You enter this flag into the challenge to gain points. 
 
 I first started competing last year in a team with my friends. The issue was though, that we had no idea about anything related to cybersecurity. I couldn't find a guide that either didn't overwhelm me or confuse me, so, I'm going to attempt to make a simple- yet thorough guide that will hopefully make getting into cybersecurity easier.  
@@ -26,7 +27,7 @@ There are multiple types of categories (think of them like genres) in cybersecur
   - Given a program, you need to understand its function, what makes it special, and decode it if someone tried to make it unreadable
 
 I simplified these topics a lot, just so that its easier to get a general understanding of them. As you get to learn more about these topics, you will see that there is a lot more to them than these simple definitions.
-#### What you will need:
+### What you will need:
 - A computer/laptop
   - You should preferrably use Windows, Linux, or Mac os (a Raspberry pi that runs debian or ubuntu depending on the generation, would be great too)
   - It is possible to work with chromebooks too, I will make a tutorial for that soon
