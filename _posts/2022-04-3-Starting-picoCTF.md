@@ -5,10 +5,11 @@ subtitle: A guide for beginners
 categories: Guides
 tags: [Guides]
 ---
-[PicoCTF](https://picoctf.org/) is a fun cybersecurity competition for students from middle school to high school. CTF stands for 'Capture The Flag', this is referring to the main objective of PicoCTF. You are given challenges, puzzles related to important cybersecurity topics. Your goal is to find the 'flag' which is a special code (usually in the format of PicoCTF{flag}). You enter this flag into the challenge to gain points. 
+[PicoCTF](https://picoctf.org/) is a fun cybersecurity competition for students from middle school to high school. CTF stands for 'Capture The Flag', this is referring to the main objective of PicoCTF. You are given challenges, puzzles related to important cybersecurity topics. Your goal is to find the 'flag' which is a special code (usually in the format of picoCTF{flag}). You enter this flag into the challenge to gain points. 
 
 I first started competing last year in a team with my friends. The issue was though, that we had no idea about anything related to cybersecurity. I couldn't find a guide that either didn't overwhelm me or confuse me, so, I'm going to attempt to make a simple- yet thorough guide that will hopefully make getting into cybersecurity easier.  
-### Programming and Cybersecurity are very intertwined things, you need programming for cybersecurity, cybersecurity for programming. I highly suggest knowing basic programming and terminal usage before, or while you learn cybersecurity.
+### Programming and Cybersecurity
+Programming and cybersecurity are very intertwined things, you need programming for cybersecurity, cybersecurity for programming. I highly suggest knowing basic programming and terminal usage before, or while you learn cybersecurity.
 ### So: Where do you begin?
 There are multiple types of categories (think of them like genres) in cybersecurity. PicoCTF did a good job of organizing them (I will be using this throughout my blog too):
 - General topics
@@ -30,9 +31,9 @@ I simplified these topics a lot, just so that its easier to get a general unders
   - You should preferrably use Windows, Linux, or Mac os (a Raspberry pi that runs debian or ubuntu depending on the generation, would be great too)
   - It is possible to work with chromebooks too, I will make a tutorial for that soon
 
-### You are going to have to use a lot of tools and applications, so I highly suggest you do a lot of research.
-You are going to have to learn a lot of new things and learn to use a lot of new applications, so I've gathered a couple of handy resources that I still use today as a reference for cybersecurity. 
-
+### Research
+You are going to have to learn a lot of new things and learn to use a lot of new applications, so I suggest that you do lots of research, find the tools that best fit you, be it VSCode for programming, or Atom for example.
+I've gathered a couple of handy resources that I still use today as a reference for cybersecurity. 
 Here is a list of them:
 - [Pico primer](https://primer.picoctf.com/): This website might have some parts that are a little out of date, but it is a very comprehensive guide for beginner to intermediate levels.
 - [PicoCTF's website](https://picoctf.org/resources) PicoCTF's own website has a wealth of information 
