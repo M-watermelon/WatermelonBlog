@@ -2,8 +2,8 @@
 layout: post
 title: Getting started in cybersecurity with PicoCTF
 subtitle: A guide for beginners
-categories: Posts
-tags: [Post]
+categories: Guides
+tags: [Guides]
 ---
 [PicoCTF](https://picoctf.org/) is a fun cybersecurity competition for students from middle school to high school. CTF stands for 'Capture The Flag', this is referring to the main objective of PicoCTF. You are given challenges, puzzles related to important cybersecurity topics. Your goal is to find the 'flag' which is a special code (usually in the format of PicoCTF{flag}). You enter this flag into the challenge to gain points. 
 
