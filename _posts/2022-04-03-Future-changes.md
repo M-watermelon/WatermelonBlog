@@ -15,6 +15,7 @@ tags: [Developer update]
   - [ ] Change the pinkish tint on the home screen banner to a darker blueish color, so that darkmode is easier on eyes.
   - [ ] Repository cleanup: get rid of useless files/folders in the github repository that came with the theme
   - [ ] Edit the Favicon cropping, the picture is squished.
+  - [ ] Get rid of the hashtag before tag in all posts
   - [ ] Change the baseurl to just `https://m-watermelon.github.io`, without `/WatermelonBlog/`
   - [ ] (Possibly) Remake the website from scratch, without using the theme, so it is completely original.
   - [ ] Add more content!!!
