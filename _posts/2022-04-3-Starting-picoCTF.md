@@ -6,9 +6,9 @@ categories: Guides
 tags: [Guides]
 ---
 ### Introduction
-[PicoCTF](https://picoctf.org/) is a fun cybersecurity competition for students from middle school to high school. CTF stands for 'Capture The Flag', this is referring to the main objective of PicoCTF. In PicoCTF, you are given challenges, puzzles related to important cybersecurity topics. Your goal is to find the 'flag' which is a special code (usually in the format of picoCTF{flag}). You enter this flag into the challenge to gain points. 
+[PicoCTF](https://picoctf.org/) is a fun cybersecurity competition for students from middle school to high school. CTF stands for 'Capture The Flag', this is referring to the main objective of PicoCTF. In PicoCTF, you are given challenges, puzzles related to important cybersecurity topics and your goal is to find the 'flag' which is a special code (usually in the format of picoCTF{flag}). You enter this flag into the challenge to gain points. 
 
-I first started competing last year in a team with my friends. The issue was though, that we had no idea about anything related to cybersecurity. I couldn't find a guide that either didn't overwhelm me or confuse me, so, I'm going to attempt to make a simple- yet thorough guide that will hopefully make getting into cybersecurity easier.  
+I first started competing last year in a team with my friends, the issue was though, that we had no idea about anything related to cybersecurity. I couldn't find a guide that either didn't overwhelm me or confuse me, so, I'm going to attempt to make a simple- yet thorough guide that will hopefully make getting into cybersecurity easier.  
 ### Programming and Cybersecurity
 Programming and cybersecurity are very intertwined things, you need programming for cybersecurity, cybersecurity for programming. I highly suggest learning basic programming and terminal usage before, or while you learn cybersecurity.
 ### So: Where do you begin?
