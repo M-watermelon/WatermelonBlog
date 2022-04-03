@@ -17,6 +17,7 @@ tags: [Developer update]
   - [ ] Edit the Favicon cropping, the picture is squished.
   - [ ] Change the baseurl to just `https://m-watermelon.github.io`, without `/WatermelonBlog/`
   - [ ] (Possibly) Remake the website from scratch, without using the theme, so it is completely original.
+  - [ ] Add more content!!!
   
   
   Finished tasks look like this:
