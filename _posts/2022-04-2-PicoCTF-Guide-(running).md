@@ -2,8 +2,8 @@
 layout: post
 title: Useful things to know for Pico CTF and general cybersecurity
 subtitle: A running guide
-categories: Posts
-tags: [Post]
+categories: Guide
+tags: [Guide]
 ---
 
 ### This guide is going to be a running blog post, meaning I'll constantly be updating this page with new things I learn.
