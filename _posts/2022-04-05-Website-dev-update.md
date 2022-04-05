@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Update on remaking this website from scratch [Day Two]
-subtitle: Hello world
+title: Remaking this website from scratch [Day Two]
+subtitle: Update
 categories: Projects
 tags: [Making a website]
 ---
