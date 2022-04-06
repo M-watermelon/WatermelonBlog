@@ -2,7 +2,7 @@
 layout: post
 title: Getting started in cybersecurity with PicoCTF
 subtitle: A guide for beginners
-categories: Guides
+categories: Guide
 tags: [Guides]
 ---
 ### Introduction
