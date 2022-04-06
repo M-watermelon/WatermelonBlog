@@ -2,7 +2,7 @@
 layout: post
 title: Future changes planned for the website
 subtitle: What I'm going to be working on for the next few days
-categories: Development update
+categories: Development
 tags: [Development update]
 ---
   I'm planning on improvements and changes to this website. There are a couple things that irritate me about the website (hopefully no one has noticed them yet).
@@ -18,7 +18,7 @@ tags: [Development update]
   - [ ] Get rid of the hashtag before tag in all posts
   - [ ] Favicon disappears when you navigate away from the homepage
   - [ ] Change the baseurl to just `https://m-watermelon.github.io`, without `/WatermelonBlog/`
-  - [ ] (Possibly) Remake the website from scratch, without using the theme, so it is completely original.
+  - [ ] (Possibly) Remake the website from scratch, without using the theme, so it is completely original. \[**In progress**]
   - [X] Add more content!!!
   
   
