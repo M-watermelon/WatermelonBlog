@@ -28,4 +28,3 @@ This is what I have left to add:
 - Font sizing
 - Make markdown pages for easier use
 - And more!
-- 
