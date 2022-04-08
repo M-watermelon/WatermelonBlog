@@ -17,14 +17,17 @@ Fixes and edits done today:
  - Font fixes with the about page link (takes you back to home)
  - Added skills list
  - Deleted `<div id = "button">` 
+
+\[Update #2]
+**I fixed it**!! It was one single `</div>` tag that was ruining everything. On the 'About' page html there were two `</div>` tags before `<footer>`, however in the index html, there was only one, and that second missing `</div>` tag was under `<footer>` instead.
  
  Main priorities:
- - Keep the footer at the bottom of the page
+ - ~Keep the footer at the bottom of the page~ 
  - Adjust the text to be further from the edges of the screen
 
 
 This is what I have left to add:
-- Move the footer to the bottom of the page
+- ~Move the footer to the bottom of the page~ \[Complete]
 - Archives page
 - Tags, Post categories, \[New] post marker
 - Post layout
