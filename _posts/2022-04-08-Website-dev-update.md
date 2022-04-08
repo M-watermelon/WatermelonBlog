@@ -11,7 +11,7 @@ I was pretty busy yesterday, so I didn't make any changes. However, today I am b
 
 \[Update]:
 
-I have no idea how, but the 'About' page's footer is at the bottom of the page finally!! I pasted the skills list into the about page html, and I noticed (thanks to the text wrapping of Github) that I still had the `<div id = "button">` still there after I pasted the html I made for my index website (it helps keep everything consistent and saves time), so I deleted it. This, along with the font fix is all I changed before making the commit. I'll try to see why this happened, and hopefully fix the home page too!
+I have no idea how, but the 'About' page's footer is at the bottom of the page finally!! I pasted the skills list into the about page html, and I noticed (thanks to the text wrapping of Github) that I still had the `<div id = "button">` still there after I pasted the html I made for my index website (it helps keep everything consistent and saves time), so I deleted it. This, along with the font fix is all I changed before making the commit. I'll try to see why this happened, and hopefully fix the home page too! I'll also check the css files.
 
 Fixes and edits done today:
  - Font fixes with the about page link (takes you back to home)
