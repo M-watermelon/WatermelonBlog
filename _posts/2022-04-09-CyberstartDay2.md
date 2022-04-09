@@ -5,7 +5,7 @@ subtitle: I got the bronze badge!
 categories: Posts
 tags: [Post]
 ---
-![Bronze badge](assets/images/banners/unnamed.png)
+![Bronze badge](https://github.com/M-watermelon/WatermelonBlog/blob/main/assets/images/banners/unnamed.png?raw=true)
 
 ### My Progress So Far
 As of writing this blog post, I have scored 5100 points! I'm having a pretty good time solving these challenges, and I'm glad I joined this competition. My goal is to get into the Gold Badge, which is 100,000 points,so its still a long way to go. You can see the scoring/badge system at the bottom of the [Cyberstart home page](https://www.cyberstartamerica.org/).
