@@ -60,7 +60,7 @@ Just to start, here's a basic list, organized by topic of cybersecurity stuff I 
   - Frequency attack
   - Railfence cipher
   - Columnar transposition cipher
-  - Transposition/Permutation cipher || eg: (1,2,3) -> (2,1,3)
+  - Transposition/Permutation cipher \|| eg: (1,2,3) -> (2,1,3)
   - Caesar cipher
   - Substitution cipher
   - Vignere cipher
