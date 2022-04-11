@@ -20,13 +20,13 @@ Just to start, here's a basic list, organized by topic of cybersecurity stuff I 
     - Audio steganography
     - Video steganography
     - Image overlapping
+    - Stegsolve
 
   - Binwalk
   - Hexdump
   - Sleuthkit
   - Exiftool
   - Sonic Visualizer
-  - Stegsolve
   - Mimetype
   - Strings
   - unar
@@ -48,7 +48,7 @@ Just to start, here's a basic list, organized by topic of cybersecurity stuff I 
   - GDB -> GNU Project Debugger
 
 - Cryptography:
-  - RSA
+  - RSA algorithm
   - Diffie-Hellman key exchange
   - Pollard-Rho algorithm
   - Weak RSA primes, weak N value
@@ -63,5 +63,6 @@ Just to start, here's a basic list, organized by topic of cybersecurity stuff I 
   - Columnar transposition cipher
   - Transposition/Permutation cipher: eg (1,2,3) -> (2,1,3)
   - Caesar cipher
-  - Substitution cipher
+  - Substitution cipher & frequency analysis
   - Vignere cipher
+  - Arnold cipher
