@@ -43,6 +43,7 @@ Just to start, here's a basic list, organized by topic of cybersecurity stuff I 
   - chmod +x filename
   - ./filename
   - whoami -> get the user id in the terminal
+  - python3 filename -> run a python 3 program
 - Reverse engineering:
   - GDB -> GNU Project Debugger
 
