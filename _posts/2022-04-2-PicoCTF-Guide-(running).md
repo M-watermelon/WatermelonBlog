@@ -66,3 +66,4 @@ Just to start, here's a basic list, organized by topic of cybersecurity stuff I 
   - Substitution cipher & frequency analysis
   - Vignere cipher
   - Arnold cipher
+  - Atbash cipher
