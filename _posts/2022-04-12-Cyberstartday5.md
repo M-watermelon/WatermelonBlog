@@ -21,7 +21,7 @@ Also: I finally realized how the scoring system works: the score is determined b
 ### My schedule / current rate
 At my current rate, I should get the silver badge by next week:
 
-| Day      | Score |
+| Day      | Score (Expected score -> Actual score) |
 | ----------- | ----------- |
 |~~Day 1~~      | 0 -> 200      |
 | ~~Day 2~~      | 5,000  -> 6,500  (Bronze award)   |
