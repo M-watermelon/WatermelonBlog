@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Useful things to know for Pico CTF and general cybersecurity
+title: Useful things to know for Pico CTF, Cyberstart, and general cybersecurity
 subtitle: A running guide
 categories: Guide
 tags: [Guide]
@@ -11,6 +11,8 @@ tags: [Guide]
 Just to start, here's a basic list, organized by topic of cybersecurity stuff I know about/have heard of. This list includes tools, concepts, attacks, commands, etc. It's going to get pretty long, so I'll have individual posts that I'll link here about each topic.
 - Web exploitation:
   - Inspecting a website's source code
+    - Using the console
+    - console.log(email,password)
   - SQL injection
   - Man in the middle attack
 
