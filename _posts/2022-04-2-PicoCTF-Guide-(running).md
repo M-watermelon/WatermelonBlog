@@ -25,6 +25,7 @@ Just to start, here's a basic list, organized by topic of cybersecurity stuff I 
     - Stegsolve
 
   - Binwalk
+  - [evtxexport](http://manpages.ubuntu.com/manpages/focal/man1/evtxexport.1.html)
   - Hexdump
   - Sleuthkit
   - Exiftool
