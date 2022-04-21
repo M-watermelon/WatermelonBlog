@@ -14,7 +14,7 @@ Programming and cybersecurity are very intertwined things, you need programming 
 ### So: Where do you begin?
 I reccomend first familiarizing with the different types of categories (think of them like genres) in cybersecurity. PicoCTF did a good job of organizing them (I will be using this throughout my blog too):
 - General topics
-  - Basic skills
+  - Basic terminal skills
 - Web exploitation -> Involving websites
   - Finding weaknesses in websites, and attacking it, *exploiting* that weakness
 - Binary exploitation -> Involving programs
@@ -34,6 +34,9 @@ I simplified these topics a lot, just so that its easier to get a general unders
 
 ### Research
 You are going to have to learn a lot of new things and learn to use a lot of new applications, so I suggest that you do lots of research, find the tools that best fit you, be it VSCode for programming, or Atom for example.
+**Learn to google!** This is one of the most important skills you will need for the future, it will be the foundation of your learning. There are tons of specific terminal commands and different syntaxes that you may need to be familiar with, so knowing how to find what you want will help.
+
+
 I've gathered a couple of handy resources that I still use today as a reference for cybersecurity. 
 Here is a list of them:
 - [Pico primer](https://primer.picoctf.com/): This website might have some parts that are a little out of date, but it is a very comprehensive guide for beginner to intermediate levels.
