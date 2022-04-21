@@ -41,12 +41,19 @@ Just to start, here's a basic list, organized by topic of cybersecurity stuff I 
 
 - General terminal commands:
   - ls -> lists the files and folders inside a directory
+  - ls -a -> view hidden files
+  - ls -l -> "Lists all files and folders, each on a separate line, and provides additional information about them (permissions, ownership and modified date). " [Source](https://www.siteground.com/tutorials/ssh/listing/)
+  - ls –alR -> lists all files (even hidden ones), adds descriptions, and will also list subfolders, their contents, and their descriptions
   - cd -> return to the first directory (root)
   - cd DIRECTORY -> enter a directory/folder
-  - chmod +x filename
-  - ./filename
+  - chmod +x filename -> make a file executable
+  - ./filename -> run the file
   - whoami -> get the user id in the terminal
   - python3 filename -> run a python 3 program
+  - cat -> output contents of a file
+  - nano filename -> edit a file inside the terminal
+  - /etc/passwd   and /etc/shadow -> these files contain passwords
+  - ssh username@ip.add.r.ess -p[PORT]  -> remote login
 - Reverse engineering:
   - GDB -> GNU Project Debugger
 
