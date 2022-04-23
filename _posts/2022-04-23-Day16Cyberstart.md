@@ -5,7 +5,7 @@ subtitle: A comeback after loosing track.
 categories: Posts
 tags: [Post]
 ---
-**My current score is 38,100 points!** 
+**My current score is 38,800 points!** 
 
 ### Updates
 I was supposed to reach my goal of 50,000 points for the silver award in Cyberstart five days ago. Lately, I had been struggling with scoring (especially scoring consistenly) in Cyberstart. This was because I was trying to stay in my comfort zone, rather than coming out and learning something new. This Thursday however, I attempted the ssh challenges, and I learned a lot. I contributed some notes to my [cybersecurity notes](https://m-watermelon.github.io/WatermelonBlog/guide/2022/04/02/PicoCTF-Guide-(running).html) regarding what I have been learning, listed under general.
