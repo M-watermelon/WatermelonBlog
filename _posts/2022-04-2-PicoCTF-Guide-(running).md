@@ -54,6 +54,7 @@ Just to start, here's a basic list, organized by topic of cybersecurity stuff I 
   - nano filename -> edit a file inside the terminal
   - /etc/passwd   and /etc/shadow -> these files contain passwords
   - ssh username@ip.add.r.ess -p[PORT]  -> remote login
+  - grep -Ril "pattern" directory -> search an entire directory for a string *(depending on the situation, you might need to use "" or / for the directory)*
 - Reverse engineering:
   - GDB -> GNU Project Debugger
 
