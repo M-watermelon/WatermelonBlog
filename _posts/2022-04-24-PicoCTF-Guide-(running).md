@@ -5,6 +5,7 @@ subtitle: A running guide
 categories: Guide
 tags: [Guide]
 ---
+First published on April 2, 2022.
 
 ### This guide is going to be a running blog post, meaning I'll constantly be updating this page with new things I learn.
 
@@ -55,6 +56,7 @@ Just to start, here's a basic list, organized by topic of cybersecurity stuff I 
   - /etc/passwd   and /etc/shadow -> these files contain passwords
   - ssh username@ip.add.r.ess -p[PORT]  -> remote login
   - grep -Ril "pattern" directory -> search an entire directory for a string *(depending on the situation, you might need to use "" or / for the directory)*
+  - printf 'yourtext' | ./yourprogram     -> run a program and automatically enter an input
 - Reverse engineering:
   - GDB -> GNU Project Debugger
 
