@@ -57,6 +57,8 @@ Just to start, here's a basic list, organized by topic of cybersecurity stuff I 
   - ssh username@ip.add.r.ess -p[PORT]  -> remote login
   - grep -Ril "pattern" directory -> search an entire directory for a string *(depending on the situation, you might need to use "" or / for the directory)*
   - printf 'yourtext' | ./yourprogram     -> run a program and automatically enter an input
+  - curl *yourURL* -> get data from a server
+  - curl -d*token=yourtoken* *yourURL* -> get data from a server with an api token
 - Reverse engineering:
   - GDB -> GNU Project Debugger
 
