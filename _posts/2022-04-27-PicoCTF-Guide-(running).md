@@ -59,6 +59,7 @@ Just to start, here's a basic list, organized by topic of cybersecurity stuff I 
   - printf 'yourtext' | ./yourprogram     -> run a program and automatically enter an input
   - curl *yourURL* -> get data from a server
   - curl -d*token=yourtoken* *yourURL* -> get data from a server with an api token
+  - curl -d UserID https://yoururl    -> get data from the url, specify POST parameter `UserID`
 - Reverse engineering:
   - GDB -> GNU Project Debugger
 
