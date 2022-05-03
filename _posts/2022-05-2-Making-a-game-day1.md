@@ -8,7 +8,9 @@ tags: [Making a website]
 ### Details:
 - Language: Javascript \[For the game\] with HTML/CSS \[For the website\]
 - Type of game: Snake game
-- 
+- Originality: completely original, made from scratch, no tutorials used -- just occasional research of specific terms
+This is going to be a short project I'm going to do. Instead of leaving the code for the second version of my blog site unfinished, I decided to repurpose it for this browser game. I chose to do this project so I can do something simple first, and then move on to the more complex programming projects.
+ 
 
 
 
