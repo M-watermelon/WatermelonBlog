@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I've been shortlisted for the National Cyber Scholarship award 
-subtitle: A comeback after loosing track.
+subtitle: SANS Foundations and the GFACT exam
 categories: Posts
 tags: [Post]
 ---
