@@ -22,7 +22,7 @@ GFACT Details:
 
 ### What this means
 
-Qualifying for the scholarship would be a great oppurtunity for me, and getting a chance to take the SANS course would be incredible. If I get the scholarship (and even if I don't) I will study as hard as I can to pass the GFACT test. The scholarship and the GFACT test would be a great headstart on my cybersecurity career. So far I have been teaching myself cybersecurity, so a course would be a good boost for me. I'm especially interested in the GFACT exam, because I could be certified in cybersecurity (at least for the foundations) by that exam, and that would be helpful for me in many ways. 
+Qualifying for the scholarship would be a great opportunity for me, and getting a chance to take the SANS course would be incredible. If I get the scholarship (and even if I don't) I will study as hard as I can to pass the GFACT test. The scholarship and the GFACT test would be a great headstart on my cybersecurity career. So far I have been teaching myself cybersecurity, so a course would be a good boost for me. I'm especially interested in the GFACT exam, because I could be certified in cybersecurity (at least for the foundations) by that exam, and that would be helpful for me in many ways. 
 
 This is only the beginning. I've begun eyeing competitive programming, and I'm going to start using websites like Leetcode and Hacker Rank. I'm also going to do more programming projects, so that I can have knowledge in both cybersecurity and programming. The school year ends in less than a month, so I will have plenty of time for everything over the summer without burning out. 
 
