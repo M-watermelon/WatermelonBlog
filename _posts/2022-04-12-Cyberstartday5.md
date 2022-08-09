@@ -28,10 +28,11 @@ At my current rate, I should get the silver badge by next week:
 | ~~Day 3~~   | 10,000        |
 | ~~Day 4~~      | 15,000 -> ~18,000 approx.  |
 | ~~Day 5~~   | 20,000  -> 20,200      |
-| Day 6      | 25,000       |
-| Day 7   | 30,000        |
-| Day 8      | 35,000       |
-| Day 9   | 40,000        |
-| Day 10      | 45,000       |
-| Day 11   | 50,000   (Silver award)     |
+| ~~Day 6~~     | 25,000       |
+| ~~Day 7~~   | 30,000        |
+| ~~Day 8~~     | 35,000       |
+| ~~Day 9~~   | 40,000        |
+| ~~Day 10~~      | 45,000       |
+| ~~Day 11~~   | 50,000   (Silver award)     |
 
+(I got the silver award on 4/27, I was pretty off track of this schedule )
