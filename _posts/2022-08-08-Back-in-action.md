@@ -51,12 +51,26 @@ I'm also keeping a computer science journal that has lots of useful notes and re
 
 ---
 Website improvements:
+- Improve the way the website loads (there is a flash of purple when loading the banner on the home screen)
 - Making a blog post template document (Ubuntu has a folder for document templates, I want to try using it)
 - Finally fixing the home url of this website
 - Removing the extra home page link on the top bar
 - Add better grouping methods for posts on this website on the home page
+
 ---
 More linux stuff:
 - Continue working with BASH scripting, going beyond using terminal commands and instead learning to use variables, loops, functions, and more. 
 - Figure out the issues I've been  experiencing with modding Windows based games.
 - Learn more about git, lua,  and onion routing (and networking in general).
+
+
+
+### Conclusion
+
+I kind of fell out of touch with Watermelon Blog 2.0, the remake of this website I wanted to create a browser game on. I might pick it up again in the future, but even if I don't, I learned a lot from my attempt to make a website line by line, from scratch.
+
+I also want to contribute to other's projects, or make a collaborative project of my own.
+
+I'm very interested in BASH at this moment, so whatever I choose to do, it'll probably have shellcode in it.
+
+It's good to be back!
