@@ -1,4 +1,4 @@
-$dark-background-color:       #0e0e0e !default;
+$dark-background-color:       #471325 !default;
 $dark-text-color: #bbb !default;
 
 html[data-theme="dark"]  {
@@ -7,7 +7,7 @@ html[data-theme="dark"]  {
       &.site-header {
         @include media-query($on-laptop) {
           .page-link {
-            color: #f8f8f8;
+            color: #f1d1d1;
           }
         }
       }
