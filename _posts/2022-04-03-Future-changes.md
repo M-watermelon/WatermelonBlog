@@ -12,7 +12,7 @@ tags: [Development update]
   - [ ] At the top, where all of the links are, I want to get rid of the useless ones (tags and home).
   - [ ] Change the translation page flag images (I just don't like them).
   - [ ] Fix the issue where when the website loads while darkmode is enabled it flashes lightmode (and blinds you).
-  - [X] Change the pinkish tint on the home screen banner to a darker blueish color, so that darkmode is easier on eyes. \[Fixed: line 262 of \_site/assets/css/main.css ]
+  - [X] Change the pinkish tint on the home screen banner to a darker blueish color, so that darkmode is easier on eyes. \[The fix: line 262 of \_site/assets/css/main.css ]
   - [ ] Repository cleanup: get rid of useless files/folders in the github repository that came with the theme
   - [ ] Edit the Favicon cropping, the picture is squished.
   - [ ] Get rid of the hashtag before tag in all posts

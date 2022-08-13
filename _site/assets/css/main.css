@@ -347,7 +347,7 @@ html[data-theme="dark"] table th { background-color: #050505; }
 
 html[data-theme="dark"] table tr:nth-child(even) { background-color: #080808; }
 
-html[data-theme="dark"] .site-header { background-color: #090909; }
+html[data-theme="dark"] .site-header { background-color: #f7c7c7; }
 
 html[data-theme="dark"] .site-header .site-brand .site-brand-inner, html[data-theme="dark"] .site-header .site-brand .site-brand-inner:visited { color: #f8f8f8; }
 
@@ -359,7 +359,7 @@ html[data-theme="dark"] .site-header .ct-language-selected, .ct-language-dropdow
 
 @media screen and (max-width: 800px) { html[data-theme="dark"] .site-header .menu-icon > svg { fill: #bbbbbb; } html[data-theme="dark"] .site-header .site-nav input:checked ~ .trigger { background-color: #090909; } }
 
-html[data-theme="dark"] .site-footer { color: #fff; background-color: #000; }
+html[data-theme="dark"] .site-footer { color: #fff; background-color: rgb(66, 16, 33); }
 
 html[data-theme="dark"] .left-vsplit:before { background-color: #9a9a9a; }
 
