@@ -23,7 +23,7 @@ html[data-theme="dark"]  {
 
   body {
     color: $dark-text-color;
-    background-color: $dark-background-color;
+    background-color: #471325;
   }
 
   *:not(pre) > code {
@@ -48,7 +48,7 @@ html[data-theme="dark"]  {
   }
 
   .site-header {
-    background-color: #090909;
+    background-color: #471325;
 
     .site-brand {
       .site-brand-inner {
