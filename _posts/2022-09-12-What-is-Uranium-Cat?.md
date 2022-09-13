@@ -5,10 +5,16 @@ subtitle: A new project update
 categories: Development
 tags: [Development update]
 ---
-
+#### Scroll all the way down to see progress images! (Regularly updated!)
 ### What it is:
 
-[Uranium Cat<sup>1</sup>](https://m-watermelon.github.io/Uranium-cat/)  is a new [github repository<sup>2</sup>](https://github.com/M-watermelon/Uranium-cat) and project made by me. It is a chat website
+[Uranium Cat<sup>1</sup>](https://m-watermelon.github.io/Uranium-cat/)  is a new [github repository<sup>2</sup>](https://github.com/M-watermelon/Uranium-cat) and project made by me. 
+
+It is a chat website made to bypass the URL filters on school wifi. My school has a very strict phone policy this year, and has disabled even Slack due to students using it in class to talk to friends. So, I decided to use this as an oppurtunity for a coding project and make a chat site. 
+
+It is still a work in progress. So far I have used HTML and CSS to build it, but I plan on using PHP, Javascript, and Bootstrap as I learn/experiment. 
+
+
 
 [1]: Link to the website itself
 
@@ -38,7 +44,7 @@ Make the chat website into an actual chat website:
 
 ### Long term ideas:
 
-- Keywords for custom ascii symbols (☏, ♫, ♥,  ☺ ,  ☹ , ❇ ) (I love these)
+- Keywords for custom ascii symbols (☏, ♫, ♥,  ☺ ,  ☹ , ❇ , ★) (I love these)
 - Users can enter a hexadecimal value to choose what color they want their name to be
 - Implement security features to prevent unwanted people from joining chats (ie internet trolls, people looking to collect information)
 - Support for sending files and images.
@@ -63,3 +69,25 @@ Additionally, I don't feel that a project is truly my own work, unless I truly m
 
 ### Conflict with tutorials and why Uranium Cat is so important:
 Speaking of tutorials, I generally have a hard time with them. Its not because I can't follow them step by step, I can, but when I do, I don't feel like I learned anything. Tutorials make the process exponentially easier, but it becomes *too easy*. I've learned to teach myself using many different resources on the internet, and piecing things together rather than relying on a single source, no matter how good, to provide everything I need. this, along with wanting to feel like I own my work, are the main issues I have with tutorials. But perhaps there is a better way, a proper method to learning from tutorials. **That is what I aim to find discover for myself with Uranium Cat.**
+
+
+
+
+---
+
+
+### Progress images:
+
+
+First launch:
+
+Featured a pastel orange heading and footer, with a light navy background. Unfortunately, I no longer have a record of what it looked like. It looked like an old website.
+
+Sleek and modern redesign:
+
+<img src="https://github.com/M-watermelon/WatermelonBlog/blob/main/assets/images/banners/uranium/second.png" alt="Redesign">
+
+
+Chat boxes added and UI design (stage one):
+
+<img src="https://github.com/M-watermelon/WatermelonBlog/blob/main/assets/images/banners/uranium/third.png" alt="Chat box">
