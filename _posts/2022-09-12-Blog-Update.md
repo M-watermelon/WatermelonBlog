@@ -35,11 +35,3 @@ The more you know!!
 ---
 
 Update: That's pretty much all. I'll keep working on this from time to time, but my main focus is school (which has started again) and BASH scripting.
-
-## Two more things:
-
-1) I really want to add comments to this website, or at least a method of communicating with people who read these (if anyone reads them). Chances are the hypothetical commenters would be my friends, with whom I share the progress of my projects. But I'm a bit too worried about troll comments to implement a comment system. What I would want to do is the second option I mentioned; creating some convenient way within the website for a reader to contact/say something to me.
-
-2) This blog is the result of my dream to have a neat/cute Tumblr style website/blog. When I originally thought of it, I intended for it to be mainly for art. This is why I want to create a sub section of this website devoted to art in the future.
-
----

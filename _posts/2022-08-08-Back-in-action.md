@@ -11,9 +11,7 @@ tags: [Post]
 --- 
 June: 
 
-I went on vacation for a month, I was pretty burnt out from finals so I mainly relaxed. 
-
-I did some research related to Networking and Linux, but I mainly focused on art and drawing.  
+I didn't do much, but I did some research related to Networking and Linux. 
 
 --- 
 
