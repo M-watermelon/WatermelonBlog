@@ -29,7 +29,7 @@ I have been very, very busy this year, hence the lack of posts. But I will summa
 - Participated in another hackathon hosted by the Girls Who Code club at my school - (see repo here)
 - WON beginner's prize for said hackathon, $80 per team, 3 teammates, so roughly $26.6 for me
 
-Not really sure if this is an accomplishment but since the seniors running the computer science club are graduating, a couple club members and I are going to continue the club next year. Hopefully this summer we can get it registered as an official club this summer. 
+Not really sure if this is an accomplishment but since the seniors running the computer science club are graduating, a couple club members and I are going to continue the club next year. Hopefully this summer we can get it registered as an official club. 
 
 ### Upcoming things:
 - [Working through the SANS foundations course](https://www.sans.org/cyber-security-courses/foundations/)
