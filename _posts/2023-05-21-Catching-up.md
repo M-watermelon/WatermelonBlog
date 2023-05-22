@@ -42,8 +42,8 @@ Not really sure if this is an accomplishment but since the seniors running the c
 - Join the science olympiad team - participate in the Cell Biology event
 - Join the Girls Who Code Club
 - Get accepted for biology or chemistry mentorship at College of Dupage
-- Apply for (Lockheed Martin STEM Scholarship)[https://lockheedmartin.com/en-us/who-we-are/communities/stem-education/lm-scholarship-program.html] this fall
-- Apply for (Neubauer Phoenix STEM Summer Scholars)[https://summer.uchicago.edu/programs/neubauer-phoenix-stem-summer-scholars] next year
+- Apply for [Lockheed Martin STEM Scholarship](https://lockheedmartin.com/en-us/who-we-are/communities/stem-education/lm-scholarship-program.html) this fall
+- Apply for [Neubauer Phoenix STEM Summer Scholars](https://summer.uchicago.edu/programs/neubauer-phoenix-stem-summer-scholars) next year
 
 
 **Well, I think that's all for now, I might have missed something, but if I did, its probably not as important as the rest.**
