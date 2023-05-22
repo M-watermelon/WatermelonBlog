@@ -57,12 +57,12 @@ This was an exceptional year for CTFs and hackathons, and its only halfway into 
 Thanks to all of the experience I got from ricing my arch linux setup, I am not longer afraid of config files.
 
 My current setup:
-Hyprland on wayland (goodbye xorg), using keybinds inspired by the default dwm ones
-Status bar: Waybar with Catpuccin theme
-GTK theme: Catpuccin Mocha (I believe)
-Terminal: Kitty and XFCE terminall with pywal colors
-Wallpaper daemon: swww
-Launcher: rofi with custom theme 5
+- Hyprland on wayland (goodbye xorg), using keybinds inspired by the default dwm ones
+- Status bar: Waybar with Catpuccin theme
+- GTK theme: Catpuccin Mocha (I believe)
+- Terminal: Kitty and XFCE terminall with pywal colors
+- Wallpaper daemon: swww
+- Launcher: rofi with custom theme 5
 
 I also use:
 - ffmpeg to make gif wallpapers
