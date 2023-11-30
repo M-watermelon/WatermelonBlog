@@ -34,12 +34,5 @@ Then, this fall I installed Kali linux on my chromebook after jailbreaking it, [
 ### Exploring Desktop environments and DWM Configs on arch!
 After installing arch linux, I started watching more of Mental Outlaw's youtube videos, specifically all the arch linux tutorials he has. This lead me to stumble upon his dwm videos, which got me interested in using other desktop environments, besides the beloved xfce. XFCE4 is great and all, but I wanted to try something new, specifically a tiling window manager. It was yet another steep learning curve, but thanks to Mental Outlaw's and Bugswriter's videos, I learned to configure DWM to how I like it, and this was my introduction into linux ricing.
 
-<<<<<<< HEAD
 ### Participating in Advent of Code
 I was introduced to Advent of Code this winter, and I solved up to day 8. My solutions are probably a bit janky, but I got a lot of good practice out of this competition. Solutions are in this repo: https://github.com/M-watermelon/Competition-programs.
-||||||| parent of e7fb567 (	modified:   _posts/2022-12-28-Linux-On-Chromebook.md)
-
-=======
-### Participating in Advent of Code
-I was introduced to Advent of Code this winter, and I solved up to day 8. My solutions are probably a bit janky, but I got a lot of good practice out of this competition. Solutions are in this repo: https://github.com/M-watermelon/Competition-programs.
->>>>>>> e7fb567 (	modified:   _posts/2022-12-28-Linux-On-Chromebook.md)
