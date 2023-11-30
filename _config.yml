@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Watermelon Blog
+title: Watermelon's Blog
 email: m.watermelon20@gmail.com
 author: M-Watermelon
 copyright: Copyright © 2022
