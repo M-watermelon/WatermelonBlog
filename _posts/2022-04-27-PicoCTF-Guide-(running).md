@@ -37,6 +37,9 @@ Just to start, here's a basic list, organized by topic of cybersecurity stuff I 
   - ar
   - 7zip
 
+---
+  The [blackarch repository](blackarch.org/) has a lot of very useful tools as well!! But since there are so many of them, I don't think I'll list them all here.
+---
 - Binary exploitation:
   - Endian: Big Endian and Little Endian
 

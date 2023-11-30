@@ -5,7 +5,7 @@ subtitle: Making this site better
 categories: Development
 tags: [Development update]
 ---
-#### Originally publieshed 8/14/22, with many updates since then.
+#### Originally published 8/14/22, with many updates since then.
 
 ---
 
