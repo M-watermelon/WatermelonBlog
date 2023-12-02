@@ -12,3 +12,5 @@ tags: [Cybersecurity]
 
 
 #### I made them for the cybersecurity section of the computer science club, because I wanted to present a new topic for that meeting.
+
+Note: I did not create the theme, I used a "computer science" theme from slidesgo.

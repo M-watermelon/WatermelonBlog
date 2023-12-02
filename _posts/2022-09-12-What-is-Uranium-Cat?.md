@@ -1,11 +1,10 @@
 ---
 layout: post
-title: What is Uranium Cat?
-subtitle: A new project update
+title: What is Uranium Cat? [Deprecated]
+subtitle: A new project
 categories: Development
 tags: [Development update]
 ---
-#### Scroll all the way down to see progress images! (Regularly updated!)
 ### What it is:
 
 [Uranium Cat<sup>1</sup>](https://m-watermelon.github.io/Uranium-cat/)  is a new [github repository<sup>2</sup>](https://github.com/M-watermelon/Uranium-cat) and project made by me. 
