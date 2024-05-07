@@ -13,8 +13,8 @@ I have been very, very busy this year, hence the lack of posts. But I will summa
 - Installed a new home button on my Iphone 6s plus
 - Attended Harvard Women in Computer Science (WiCS) virtual WiCS Workshop
 - Further DWM configs and Arch linux ricing on my thinkpad
-- Nintendo 3ds homebrew and developing a jailbreaking hobby
-- Nintendo Switch jailbreaking and Yuzu setup
+- Nintendo 3ds homebrew
+- Nintendo Switch tinkering and Yuzu setup
 - Formed a cybersecurity and hackathon team
 - Competed in PicoCTF 2023 - Team pwned by penguins, 118th place in the US
 - Participated in a nearby high school's hackathon
@@ -71,20 +71,21 @@ I also use:
 - vim with current terminal theme
 - code-oss with lilac theme and catpuccin icons
 
-### Jailbreaking devices 
-After jaillbreaking my chromebook, I became increasingly interested in jailbreaking other devices. I started researching iphone 6, ipad mini 2, and kindle paperwhite jailbreaks, but these were either shady or outdated. 
-However, I did still develop a passion for jailbreaking and enjoy speedrunning them (specifically on nintendo devices). Currently my ~~kill~~ streak is:
+### Tinkering with devices 
+After installing linux on my chromebook, I became increasingly interested in tinkering with other devices. I started researching iphone 6, ipad mini 2, and kindle paperwhite linux installations, but these were either shady or outdated. 
+However, I did still develop a passion for working with both hardware and software.
+I've worked on:
 - HP x360 Chromebook
 - Nintendo 3ds XL
-- My sister's Nintendo 3ds XL
+- Someone else's Nintendo 3ds XL
 - Nintendo switch 
 
-In the future, I will try to jailbreak:
+In the future, I want to explore:
 - My printer
-- My kindle (if there is a new jailbreak rather than the outdated ones)
+- My kindle (if there is anything new in the kindle hardware community)
 - Smart home devices (because of the whole NEST selling out thing going on) and google home stuff
-- Maybe my sister's chromebook so I can make a video to go along with my post
-But overall I've run out of things that either belong to me or I am allowed to jailbreak, so we'll see. 
+- Maybe another (non-school affiliated) chromebook so I can make a video to go along with my post
+But overall I've run out of things that either belong to me or I am allowed to mess around with, so we'll see. 
 
 ### Photos of stuff I did:
 Coming soon. 
