@@ -7,7 +7,7 @@ tags: [Development update]
 ---
   I'm planning on improvements and changes to this website. There are a couple things that irritate me about the website (hopefully no one has noticed them yet).
   Here's a to do list of the things I plan to either change or fix:
-  - [ ] Fix the RSS email subscription link (you can't subscribe for email notification updates about new posts), or delete the option (I don't like email subscriptions).
+  - [X] Fix the RSS email subscription link (you can't subscribe for email notification updates about new posts), or delete the option (I don't like email subscriptions).
   - [ ] Fix the website footer links (they are pink, and invisible, I want to change them to be the #84719c (purple) like the other links).
   - [ ] At the top, where all of the links are, I want to get rid of the useless ones (tags and home).
   - [ ] Change the translation page flag images (I just don't like them).
