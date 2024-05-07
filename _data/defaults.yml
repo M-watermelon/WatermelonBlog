@@ -1,4 +1,4 @@
 home:
   heading: Watermelon Blog
   subheading: A pink cybersecurity and programming blog
-  banner: assets/images/banners/red_pink.png
+  banner: "assets/images/banners/red_pink.png"
